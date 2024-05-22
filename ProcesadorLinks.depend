@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716402819 source:c:\users\tonia\onedrive\escritorio\procesadorlinks\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
